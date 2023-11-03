@@ -18,4 +18,15 @@ class AppStrings{
   static const String placeYourNeed = "you can place your needed orders to let serve you.";
 
 
+
+//No internet
+
+  static const String noInternet = "No Internet connection";
+
+  //http error
+  static const String serverFailure = 'Server Failure';
+  static const String cacheFailure = 'Cache Failure';
+  static const String offline = 'offline Failure';
+  static const String unExpectedError = 'Un Expected Error';
+
 }
